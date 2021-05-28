@@ -12,6 +12,10 @@ The Package dependencies for this program include:
 
 - python 3.0
 
-- menu.py
+- program.py
+ 
+- helpers.py
 
-- python menu.py is the sample command
+- constants.py
+
+- python program.py is the sample command
